@@ -1,0 +1,19 @@
+engine:
+  continuous_mode: true
+  max_cycles: 20
+  loop_sleep_seconds: 0.05
+
+logging:
+  level: INFO
+  dir: ./runtime/logs
+
+safety:
+  blocked_actions:
+    - destructive_delete
+    - credential_exfiltration
+  require_manual_approval_for:
+    - financial_transaction
+    - root_shell
+
+memory:
+  root: ./runtime/memory
