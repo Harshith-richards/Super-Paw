@@ -1,0 +1,4 @@
+import localities from "@/data/localities.json";
+import pgs from "@/data/pgs.json";
+
+export default async function Locality({params}:{params:Promise<{slug:string}>}){const {slug}=await params; const name=slug.split('-').map(s=>s[0].toUpperCase()+s.slice(1)).join(' '); const locality=(localities as any[]).find(l=>l.name===name); const items=(pgs as any[]).filter(p=>p.area===name).slice(0,6); if(!locality)return <div>Locality not found</div>; return <div className="space-y-4"><h1 className="text-3xl font-bold">PGs in {name}</h1><p>{locality.overview}</p><p>Avg rent: ₹{locality.avgRent} | Popularity: {locality.popularity}/100</p><p>Metro: {locality.metro.join(', ')}</p><div className="grid md:grid-cols-3 gap-4">{items.map(p=><div key={p.id} className="glass rounded-xl p-3">{p.name} - ₹{p.rent}</div>)}</div></div>}
