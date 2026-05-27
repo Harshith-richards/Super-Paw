@@ -1,0 +1,1 @@
+export default function About(){return <div className="prose prose-invert"><h1>About Bangalore PG Living</h1><p>Bangalore PG Finder helps students and professionals discover trusted PGs across key micro-markets.</p></div>}
