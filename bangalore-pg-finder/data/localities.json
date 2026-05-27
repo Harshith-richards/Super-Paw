@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Koramangala",
+    "avgRent": 16908,
+    "popularity": 93,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro",
+      "Accenture"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "Koramangala is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9352,
+    "lng": 77.6245
+  },
+  {
+    "name": "Whitefield",
+    "avgRent": 18530,
+    "popularity": 84,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "Whitefield is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9698,
+    "lng": 77.7499
+  },
+  {
+    "name": "Electronic City",
+    "avgRent": 13849,
+    "popularity": 88,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University"
+    ],
+    "overview": "Electronic City is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.8399,
+    "lng": 77.677
+  },
+  {
+    "name": "HSR Layout",
+    "avgRent": 18730,
+    "popularity": 78,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "HSR Layout is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9116,
+    "lng": 77.6474
+  },
+  {
+    "name": "Bellandur",
+    "avgRent": 15275,
+    "popularity": 81,
+    "metro": [
+      "Indiranagar",
+      "MG Road",
+      "Baiyappanahalli"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro",
+      "Accenture"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "Bellandur is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9255,
+    "lng": 77.676
+  },
+  {
+    "name": "Marathahalli",
+    "avgRent": 11257,
+    "popularity": 77,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro"
+    ],
+    "colleges": [
+      "Christ University"
+    ],
+    "overview": "Marathahalli is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9591,
+    "lng": 77.6974
+  },
+  {
+    "name": "BTM Layout",
+    "avgRent": 11393,
+    "popularity": 79,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro",
+      "Accenture"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "BTM Layout is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9166,
+    "lng": 77.6101
+  },
+  {
+    "name": "Indiranagar",
+    "avgRent": 9246,
+    "popularity": 85,
+    "metro": [
+      "Indiranagar",
+      "MG Road",
+      "Baiyappanahalli"
+    ],
+    "itCompanies": [
+      "Infosys"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "Indiranagar is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9719,
+    "lng": 77.6412
+  },
+  {
+    "name": "JP Nagar",
+    "avgRent": 9050,
+    "popularity": 90,
+    "metro": [
+      "Indiranagar",
+      "MG Road",
+      "Baiyappanahalli"
+    ],
+    "itCompanies": [
+      "Infosys"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University"
+    ],
+    "overview": "JP Nagar is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9077,
+    "lng": 77.585
+  },
+  {
+    "name": "Yelahanka",
+    "avgRent": 12483,
+    "popularity": 85,
+    "metro": [
+      "Indiranagar",
+      "MG Road",
+      "Baiyappanahalli"
+    ],
+    "itCompanies": [
+      "Infosys"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University"
+    ],
+    "overview": "Yelahanka is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 13.1007,
+    "lng": 77.5963
+  },
+  {
+    "name": "Hebbal",
+    "avgRent": 10653,
+    "popularity": 98,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro",
+      "Accenture"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University"
+    ],
+    "overview": "Hebbal is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 13.0358,
+    "lng": 77.597
+  },
+  {
+    "name": "Rajajinagar",
+    "avgRent": 15511,
+    "popularity": 86,
+    "metro": [
+      "Indiranagar",
+      "MG Road"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro"
+    ],
+    "colleges": [
+      "Christ University"
+    ],
+    "overview": "Rajajinagar is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.9917,
+    "lng": 77.5562
+  },
+  {
+    "name": "Jayanagar",
+    "avgRent": 15652,
+    "popularity": 80,
+    "metro": [
+      "Indiranagar",
+      "MG Road",
+      "Baiyappanahalli"
+    ],
+    "itCompanies": [
+      "Infosys",
+      "Wipro",
+      "Accenture"
+    ],
+    "colleges": [
+      "Christ University",
+      "PES University",
+      "MSRIT"
+    ],
+    "overview": "Jayanagar is one of Bengaluru's most sought-after areas for PG living.",
+    "lat": 12.925,
+    "lng": 77.5938
+  }
+]

@@ -1,0 +1,3 @@
+"use client";
+import { useState } from "react";
+export default function Contact(){const [ok,setOk]=useState(false);return <div className="max-w-xl space-y-4"><h1 className="text-3xl font-bold">Contact</h1><form className="space-y-3" onSubmit={(e)=>{e.preventDefault();setOk(true);localStorage.setItem('inquiry',new Date().toISOString());}}><input required placeholder="Name" className="w-full rounded-xl bg-white/10 p-3"/><input required placeholder="Phone" className="w-full rounded-xl bg-white/10 p-3"/><textarea required placeholder="Requirement" className="w-full rounded-xl bg-white/10 p-3"/><button className="rounded-xl bg-violet-600 px-5 py-2">Send Inquiry</button></form>{ok&&<p className="text-emerald-400">Inquiry submitted successfully.</p>}</div>}
