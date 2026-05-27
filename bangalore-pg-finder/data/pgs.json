@@ -1,0 +1,3544 @@
+[
+  {
+    "id": "pg-1",
+    "name": "BTM Layout Comfort Stay 1",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Girls",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 16495,
+    "rating": 3.9,
+    "amenities": [
+      "Power Backup",
+      "AC",
+      "Attached Bathroom",
+      "Laundry",
+      "Food Included",
+      "Parking",
+      "CCTV",
+      "Furnished",
+      "WiFi"
+    ],
+    "lat": 12.905605,
+    "lng": 77.594115,
+    "image": "https://images.unsplash.com/photo-1500000000001?auto=format&fit=crop&w=1200&q=80",
+    "address": "224, BTM Layout, Bengaluru",
+    "metroDistanceKm": 3.4,
+    "phone": "+91 9245634790",
+    "whatsapp": "919176885041",
+    "popular": false
+  },
+  {
+    "id": "pg-2",
+    "name": "Electronic City Comfort Stay 2",
+    "area": "Electronic City",
+    "locality": "Electronic City",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 10716,
+    "rating": 4.7,
+    "amenities": [
+      "Power Backup",
+      "Laundry",
+      "Attached Bathroom",
+      "Parking"
+    ],
+    "lat": 12.823097,
+    "lng": 77.682161,
+    "image": "https://images.unsplash.com/photo-1500000000002?auto=format&fit=crop&w=1200&q=80",
+    "address": "83, Electronic City, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9733122045",
+    "whatsapp": "919722943022",
+    "popular": true
+  },
+  {
+    "id": "pg-3",
+    "name": "Whitefield Comfort Stay 3",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Girls",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 9218,
+    "rating": 4.7,
+    "amenities": [
+      "AC",
+      "Parking",
+      "Attached Bathroom",
+      "Furnished",
+      "CCTV",
+      "Food Included",
+      "Laundry",
+      "WiFi"
+    ],
+    "lat": 12.97553,
+    "lng": 77.764052,
+    "image": "https://images.unsplash.com/photo-1500000000003?auto=format&fit=crop&w=1200&q=80",
+    "address": "268, Whitefield, Bengaluru",
+    "metroDistanceKm": 2.7,
+    "phone": "+91 9290826179",
+    "whatsapp": "919383840852",
+    "popular": true
+  },
+  {
+    "id": "pg-4",
+    "name": "Hebbal Comfort Stay 4",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 13545,
+    "rating": 4.3,
+    "amenities": [
+      "Laundry",
+      "CCTV",
+      "WiFi",
+      "Furnished",
+      "Power Backup"
+    ],
+    "lat": 13.017552,
+    "lng": 77.592546,
+    "image": "https://images.unsplash.com/photo-1500000000004?auto=format&fit=crop&w=1200&q=80",
+    "address": "84, Hebbal, Bengaluru",
+    "metroDistanceKm": 2.2,
+    "phone": "+91 9232469554",
+    "whatsapp": "919540418383",
+    "popular": true
+  },
+  {
+    "id": "pg-5",
+    "name": "Hebbal Comfort Stay 5",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 15842,
+    "rating": 4.9,
+    "amenities": [
+      "Laundry",
+      "CCTV",
+      "Attached Bathroom",
+      "Power Backup",
+      "WiFi",
+      "Food Included"
+    ],
+    "lat": 13.049502,
+    "lng": 77.60373,
+    "image": "https://images.unsplash.com/photo-1500000000005?auto=format&fit=crop&w=1200&q=80",
+    "address": "133, Hebbal, Bengaluru",
+    "metroDistanceKm": 3.8,
+    "phone": "+91 9176941731",
+    "whatsapp": "919118236360",
+    "popular": true
+  },
+  {
+    "id": "pg-6",
+    "name": "Bellandur Comfort Stay 6",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Girls",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 23983,
+    "rating": 3.9,
+    "amenities": [
+      "CCTV",
+      "Furnished",
+      "Parking",
+      "Power Backup",
+      "Attached Bathroom",
+      "AC",
+      "Laundry"
+    ],
+    "lat": 12.924006,
+    "lng": 77.690731,
+    "image": "https://images.unsplash.com/photo-1500000000006?auto=format&fit=crop&w=1200&q=80",
+    "address": "66, Bellandur, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9698737831",
+    "whatsapp": "919271784605",
+    "popular": false
+  },
+  {
+    "id": "pg-7",
+    "name": "Yelahanka Comfort Stay 7",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 8453,
+    "rating": 4.1,
+    "amenities": [
+      "Furnished",
+      "CCTV",
+      "Power Backup",
+      "Laundry",
+      "AC",
+      "Attached Bathroom",
+      "Parking",
+      "WiFi",
+      "Food Included"
+    ],
+    "lat": 13.114358,
+    "lng": 77.59095,
+    "image": "https://images.unsplash.com/photo-1500000000007?auto=format&fit=crop&w=1200&q=80",
+    "address": "251, Yelahanka, Bengaluru",
+    "metroDistanceKm": 1.8,
+    "phone": "+91 9137159774",
+    "whatsapp": "919277657017",
+    "popular": true
+  },
+  {
+    "id": "pg-8",
+    "name": "Yelahanka Comfort Stay 8",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Boys",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 6513,
+    "rating": 4.6,
+    "amenities": [
+      "Parking",
+      "Laundry",
+      "AC",
+      "CCTV",
+      "Attached Bathroom",
+      "Power Backup",
+      "Furnished",
+      "WiFi"
+    ],
+    "lat": 13.10244,
+    "lng": 77.58139,
+    "image": "https://images.unsplash.com/photo-1500000000008?auto=format&fit=crop&w=1200&q=80",
+    "address": "98, Yelahanka, Bengaluru",
+    "metroDistanceKm": 4.0,
+    "phone": "+91 9359174036",
+    "whatsapp": "919362103074",
+    "popular": true
+  },
+  {
+    "id": "pg-9",
+    "name": "HSR Layout Comfort Stay 9",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Girls",
+    "occupancy": [
+      "Double",
+      "Single",
+      "Triple"
+    ],
+    "rent": 21260,
+    "rating": 4.0,
+    "amenities": [
+      "Attached Bathroom",
+      "WiFi",
+      "Parking",
+      "Food Included",
+      "CCTV",
+      "Power Backup",
+      "Laundry"
+    ],
+    "lat": 12.902454,
+    "lng": 77.647259,
+    "image": "https://images.unsplash.com/photo-1500000000009?auto=format&fit=crop&w=1200&q=80",
+    "address": "132, HSR Layout, Bengaluru",
+    "metroDistanceKm": 0.6,
+    "phone": "+91 9943340232",
+    "whatsapp": "919591512021",
+    "popular": false
+  },
+  {
+    "id": "pg-10",
+    "name": "BTM Layout Comfort Stay 10",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 12440,
+    "rating": 4.3,
+    "amenities": [
+      "Laundry",
+      "Power Backup",
+      "Parking",
+      "Attached Bathroom",
+      "Food Included",
+      "AC",
+      "CCTV",
+      "Furnished",
+      "WiFi"
+    ],
+    "lat": 12.935936,
+    "lng": 77.602998,
+    "image": "https://images.unsplash.com/photo-1500000000010?auto=format&fit=crop&w=1200&q=80",
+    "address": "34, BTM Layout, Bengaluru",
+    "metroDistanceKm": 2.3,
+    "phone": "+91 9320885900",
+    "whatsapp": "919712616388",
+    "popular": true
+  },
+  {
+    "id": "pg-11",
+    "name": "Indiranagar Comfort Stay 11",
+    "area": "Indiranagar",
+    "locality": "Indiranagar",
+    "type": "Boys",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 12835,
+    "rating": 4.5,
+    "amenities": [
+      "Parking",
+      "Food Included",
+      "Laundry",
+      "CCTV",
+      "Power Backup",
+      "WiFi",
+      "Attached Bathroom",
+      "Furnished"
+    ],
+    "lat": 12.975258,
+    "lng": 77.625733,
+    "image": "https://images.unsplash.com/photo-1500000000011?auto=format&fit=crop&w=1200&q=80",
+    "address": "128, Indiranagar, Bengaluru",
+    "metroDistanceKm": 3.0,
+    "phone": "+91 9898788304",
+    "whatsapp": "919443368883",
+    "popular": false
+  },
+  {
+    "id": "pg-12",
+    "name": "Marathahalli Comfort Stay 12",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 14319,
+    "rating": 4.5,
+    "amenities": [
+      "Attached Bathroom",
+      "WiFi",
+      "CCTV",
+      "AC"
+    ],
+    "lat": 12.966328,
+    "lng": 77.683476,
+    "image": "https://images.unsplash.com/photo-1500000000012?auto=format&fit=crop&w=1200&q=80",
+    "address": "93, Marathahalli, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9688455516",
+    "whatsapp": "919544113209",
+    "popular": true
+  },
+  {
+    "id": "pg-13",
+    "name": "Whitefield Comfort Stay 13",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 25882,
+    "rating": 3.8,
+    "amenities": [
+      "Attached Bathroom",
+      "AC",
+      "Laundry",
+      "Furnished",
+      "CCTV",
+      "WiFi",
+      "Food Included"
+    ],
+    "lat": 12.989153,
+    "lng": 77.734197,
+    "image": "https://images.unsplash.com/photo-1500000000013?auto=format&fit=crop&w=1200&q=80",
+    "address": "79, Whitefield, Bengaluru",
+    "metroDistanceKm": 4.5,
+    "phone": "+91 9814685293",
+    "whatsapp": "919296312893",
+    "popular": true
+  },
+  {
+    "id": "pg-14",
+    "name": "Jayanagar Comfort Stay 14",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Boys",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 24114,
+    "rating": 4.5,
+    "amenities": [
+      "Parking",
+      "Furnished",
+      "AC",
+      "CCTV",
+      "Attached Bathroom",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.91338,
+    "lng": 77.601725,
+    "image": "https://images.unsplash.com/photo-1500000000014?auto=format&fit=crop&w=1200&q=80",
+    "address": "149, Jayanagar, Bengaluru",
+    "metroDistanceKm": 1.0,
+    "phone": "+91 9755549310",
+    "whatsapp": "919851084914",
+    "popular": true
+  },
+  {
+    "id": "pg-15",
+    "name": "Whitefield Comfort Stay 15",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 17069,
+    "rating": 3.7,
+    "amenities": [
+      "Furnished",
+      "WiFi",
+      "AC",
+      "Laundry",
+      "Attached Bathroom",
+      "Parking",
+      "Power Backup"
+    ],
+    "lat": 12.969227,
+    "lng": 77.741385,
+    "image": "https://images.unsplash.com/photo-1500000000015?auto=format&fit=crop&w=1200&q=80",
+    "address": "267, Whitefield, Bengaluru",
+    "metroDistanceKm": 3.3,
+    "phone": "+91 9446394755",
+    "whatsapp": "919760232990",
+    "popular": false
+  },
+  {
+    "id": "pg-16",
+    "name": "Koramangala Comfort Stay 16",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 23381,
+    "rating": 4.0,
+    "amenities": [
+      "Attached Bathroom",
+      "WiFi",
+      "Furnished",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.948984,
+    "lng": 77.616734,
+    "image": "https://images.unsplash.com/photo-1500000000016?auto=format&fit=crop&w=1200&q=80",
+    "address": "200, Koramangala, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9758445875",
+    "whatsapp": "919942552276",
+    "popular": false
+  },
+  {
+    "id": "pg-17",
+    "name": "Marathahalli Comfort Stay 17",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 10896,
+    "rating": 3.6,
+    "amenities": [
+      "AC",
+      "Power Backup",
+      "Parking",
+      "Laundry",
+      "WiFi",
+      "Furnished",
+      "Attached Bathroom",
+      "CCTV",
+      "Food Included"
+    ],
+    "lat": 12.941667,
+    "lng": 77.692768,
+    "image": "https://images.unsplash.com/photo-1500000000017?auto=format&fit=crop&w=1200&q=80",
+    "address": "93, Marathahalli, Bengaluru",
+    "metroDistanceKm": 4.3,
+    "phone": "+91 9546186664",
+    "whatsapp": "919655621689",
+    "popular": true
+  },
+  {
+    "id": "pg-18",
+    "name": "HSR Layout Comfort Stay 18",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Single",
+      "Triple"
+    ],
+    "rent": 21143,
+    "rating": 3.9,
+    "amenities": [
+      "WiFi",
+      "Laundry",
+      "Furnished",
+      "AC",
+      "Parking",
+      "Power Backup",
+      "CCTV",
+      "Attached Bathroom",
+      "Food Included"
+    ],
+    "lat": 12.914372,
+    "lng": 77.644454,
+    "image": "https://images.unsplash.com/photo-1500000000018?auto=format&fit=crop&w=1200&q=80",
+    "address": "198, HSR Layout, Bengaluru",
+    "metroDistanceKm": 4.1,
+    "phone": "+91 9683761727",
+    "whatsapp": "919777099161",
+    "popular": false
+  },
+  {
+    "id": "pg-19",
+    "name": "Whitefield Comfort Stay 19",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Girls",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 23745,
+    "rating": 3.9,
+    "amenities": [
+      "AC",
+      "Attached Bathroom",
+      "Power Backup",
+      "Laundry"
+    ],
+    "lat": 12.967935,
+    "lng": 77.762373,
+    "image": "https://images.unsplash.com/photo-1500000000019?auto=format&fit=crop&w=1200&q=80",
+    "address": "31, Whitefield, Bengaluru",
+    "metroDistanceKm": 2.2,
+    "phone": "+91 9290941552",
+    "whatsapp": "919756532442",
+    "popular": false
+  },
+  {
+    "id": "pg-20",
+    "name": "Hebbal Comfort Stay 20",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Boys",
+    "occupancy": [
+      "Double",
+      "Triple",
+      "Single"
+    ],
+    "rent": 20233,
+    "rating": 3.9,
+    "amenities": [
+      "AC",
+      "Food Included",
+      "Laundry",
+      "Power Backup"
+    ],
+    "lat": 13.03068,
+    "lng": 77.595044,
+    "image": "https://images.unsplash.com/photo-1500000000020?auto=format&fit=crop&w=1200&q=80",
+    "address": "272, Hebbal, Bengaluru",
+    "metroDistanceKm": 3.2,
+    "phone": "+91 9763350681",
+    "whatsapp": "919962297126",
+    "popular": true
+  },
+  {
+    "id": "pg-21",
+    "name": "Whitefield Comfort Stay 21",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 7848,
+    "rating": 4.2,
+    "amenities": [
+      "Power Backup",
+      "WiFi",
+      "Attached Bathroom",
+      "Parking",
+      "Laundry",
+      "AC",
+      "CCTV"
+    ],
+    "lat": 12.955802,
+    "lng": 77.751112,
+    "image": "https://images.unsplash.com/photo-1500000000021?auto=format&fit=crop&w=1200&q=80",
+    "address": "104, Whitefield, Bengaluru",
+    "metroDistanceKm": 3.4,
+    "phone": "+91 9905075610",
+    "whatsapp": "919929315349",
+    "popular": true
+  },
+  {
+    "id": "pg-22",
+    "name": "JP Nagar Comfort Stay 22",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 25165,
+    "rating": 3.8,
+    "amenities": [
+      "CCTV",
+      "AC",
+      "Parking",
+      "Power Backup",
+      "Food Included",
+      "Furnished",
+      "WiFi"
+    ],
+    "lat": 12.917689,
+    "lng": 77.57122,
+    "image": "https://images.unsplash.com/photo-1500000000022?auto=format&fit=crop&w=1200&q=80",
+    "address": "170, JP Nagar, Bengaluru",
+    "metroDistanceKm": 1.0,
+    "phone": "+91 9713852486",
+    "whatsapp": "919389224188",
+    "popular": false
+  },
+  {
+    "id": "pg-23",
+    "name": "Indiranagar Comfort Stay 23",
+    "area": "Indiranagar",
+    "locality": "Indiranagar",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Single"
+    ],
+    "rent": 10355,
+    "rating": 4.9,
+    "amenities": [
+      "Parking",
+      "Food Included",
+      "Laundry",
+      "Attached Bathroom",
+      "Furnished",
+      "WiFi",
+      "CCTV",
+      "AC",
+      "Power Backup"
+    ],
+    "lat": 12.95236,
+    "lng": 77.629864,
+    "image": "https://images.unsplash.com/photo-1500000000023?auto=format&fit=crop&w=1200&q=80",
+    "address": "227, Indiranagar, Bengaluru",
+    "metroDistanceKm": 2.7,
+    "phone": "+91 9532592847",
+    "whatsapp": "919158552953",
+    "popular": false
+  },
+  {
+    "id": "pg-24",
+    "name": "Indiranagar Comfort Stay 24",
+    "area": "Indiranagar",
+    "locality": "Indiranagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Single"
+    ],
+    "rent": 12629,
+    "rating": 4.0,
+    "amenities": [
+      "WiFi",
+      "Food Included",
+      "Attached Bathroom",
+      "Laundry",
+      "AC",
+      "Power Backup",
+      "Furnished",
+      "Parking"
+    ],
+    "lat": 12.961098,
+    "lng": 77.638337,
+    "image": "https://images.unsplash.com/photo-1500000000024?auto=format&fit=crop&w=1200&q=80",
+    "address": "176, Indiranagar, Bengaluru",
+    "metroDistanceKm": 1.2,
+    "phone": "+91 9688232670",
+    "whatsapp": "919981848109",
+    "popular": true
+  },
+  {
+    "id": "pg-25",
+    "name": "HSR Layout Comfort Stay 25",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Boys",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 18071,
+    "rating": 4.1,
+    "amenities": [
+      "Furnished",
+      "AC",
+      "Laundry",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.92311,
+    "lng": 77.6605,
+    "image": "https://images.unsplash.com/photo-1500000000025?auto=format&fit=crop&w=1200&q=80",
+    "address": "39, HSR Layout, Bengaluru",
+    "metroDistanceKm": 0.7,
+    "phone": "+91 9860637971",
+    "whatsapp": "919255521503",
+    "popular": false
+  },
+  {
+    "id": "pg-26",
+    "name": "Bellandur Comfort Stay 26",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Girls",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 17016,
+    "rating": 3.9,
+    "amenities": [
+      "Power Backup",
+      "Laundry",
+      "Attached Bathroom",
+      "Parking",
+      "CCTV",
+      "AC",
+      "Furnished"
+    ],
+    "lat": 12.930785,
+    "lng": 77.662028,
+    "image": "https://images.unsplash.com/photo-1500000000026?auto=format&fit=crop&w=1200&q=80",
+    "address": "62, Bellandur, Bengaluru",
+    "metroDistanceKm": 3.4,
+    "phone": "+91 9144741621",
+    "whatsapp": "919334421260",
+    "popular": true
+  },
+  {
+    "id": "pg-27",
+    "name": "Rajajinagar Comfort Stay 27",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Triple"
+    ],
+    "rent": 13071,
+    "rating": 4.8,
+    "amenities": [
+      "WiFi",
+      "Attached Bathroom",
+      "Power Backup",
+      "Furnished",
+      "AC",
+      "Food Included"
+    ],
+    "lat": 12.990971,
+    "lng": 77.546962,
+    "image": "https://images.unsplash.com/photo-1500000000027?auto=format&fit=crop&w=1200&q=80",
+    "address": "269, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9252529876",
+    "whatsapp": "919593130794",
+    "popular": true
+  },
+  {
+    "id": "pg-28",
+    "name": "Indiranagar Comfort Stay 28",
+    "area": "Indiranagar",
+    "locality": "Indiranagar",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 20682,
+    "rating": 4.6,
+    "amenities": [
+      "Food Included",
+      "Furnished",
+      "Laundry",
+      "Attached Bathroom",
+      "AC",
+      "Power Backup",
+      "CCTV"
+    ],
+    "lat": 12.957598,
+    "lng": 77.64835,
+    "image": "https://images.unsplash.com/photo-1500000000028?auto=format&fit=crop&w=1200&q=80",
+    "address": "238, Indiranagar, Bengaluru",
+    "metroDistanceKm": 0.2,
+    "phone": "+91 9453846596",
+    "whatsapp": "919685677824",
+    "popular": false
+  },
+  {
+    "id": "pg-29",
+    "name": "Hebbal Comfort Stay 29",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Girls",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 22274,
+    "rating": 4.3,
+    "amenities": [
+      "CCTV",
+      "Furnished",
+      "Power Backup",
+      "WiFi",
+      "Attached Bathroom",
+      "Food Included",
+      "AC",
+      "Parking",
+      "Laundry"
+    ],
+    "lat": 13.043228,
+    "lng": 77.590417,
+    "image": "https://images.unsplash.com/photo-1500000000029?auto=format&fit=crop&w=1200&q=80",
+    "address": "48, Hebbal, Bengaluru",
+    "metroDistanceKm": 4.3,
+    "phone": "+91 9348999565",
+    "whatsapp": "919370744006",
+    "popular": false
+  },
+  {
+    "id": "pg-30",
+    "name": "Koramangala Comfort Stay 30",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 16820,
+    "rating": 3.8,
+    "amenities": [
+      "Parking",
+      "Furnished",
+      "Power Backup",
+      "AC",
+      "Food Included"
+    ],
+    "lat": 12.941484,
+    "lng": 77.622512,
+    "image": "https://images.unsplash.com/photo-1500000000030?auto=format&fit=crop&w=1200&q=80",
+    "address": "158, Koramangala, Bengaluru",
+    "metroDistanceKm": 2.9,
+    "phone": "+91 9402859499",
+    "whatsapp": "919652307566",
+    "popular": true
+  },
+  {
+    "id": "pg-31",
+    "name": "Hebbal Comfort Stay 31",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 8455,
+    "rating": 4.4,
+    "amenities": [
+      "Food Included",
+      "Power Backup",
+      "CCTV",
+      "Laundry",
+      "AC",
+      "Attached Bathroom",
+      "WiFi"
+    ],
+    "lat": 13.054564,
+    "lng": 77.606531,
+    "image": "https://images.unsplash.com/photo-1500000000031?auto=format&fit=crop&w=1200&q=80",
+    "address": "156, Hebbal, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9462010742",
+    "whatsapp": "919580783897",
+    "popular": false
+  },
+  {
+    "id": "pg-32",
+    "name": "Electronic City Comfort Stay 32",
+    "area": "Electronic City",
+    "locality": "Electronic City",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Double"
+    ],
+    "rent": 20640,
+    "rating": 4.3,
+    "amenities": [
+      "Laundry",
+      "Parking",
+      "Furnished",
+      "AC",
+      "WiFi"
+    ],
+    "lat": 12.822166,
+    "lng": 77.68616,
+    "image": "https://images.unsplash.com/photo-1500000000032?auto=format&fit=crop&w=1200&q=80",
+    "address": "107, Electronic City, Bengaluru",
+    "metroDistanceKm": 3.8,
+    "phone": "+91 9110770640",
+    "whatsapp": "919724820670",
+    "popular": false
+  },
+  {
+    "id": "pg-33",
+    "name": "Rajajinagar Comfort Stay 33",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 13630,
+    "rating": 4.6,
+    "amenities": [
+      "Power Backup",
+      "CCTV",
+      "AC",
+      "Food Included",
+      "Attached Bathroom",
+      "WiFi",
+      "Furnished",
+      "Laundry",
+      "Parking"
+    ],
+    "lat": 13.00063,
+    "lng": 77.556065,
+    "image": "https://images.unsplash.com/photo-1500000000033?auto=format&fit=crop&w=1200&q=80",
+    "address": "36, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9155706409",
+    "whatsapp": "919920956711",
+    "popular": true
+  },
+  {
+    "id": "pg-34",
+    "name": "Marathahalli Comfort Stay 34",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "rent": 9153,
+    "rating": 3.8,
+    "amenities": [
+      "Attached Bathroom",
+      "WiFi",
+      "AC",
+      "Laundry",
+      "Power Backup"
+    ],
+    "lat": 12.950528,
+    "lng": 77.708982,
+    "image": "https://images.unsplash.com/photo-1500000000034?auto=format&fit=crop&w=1200&q=80",
+    "address": "224, Marathahalli, Bengaluru",
+    "metroDistanceKm": 2.1,
+    "phone": "+91 9835078168",
+    "whatsapp": "919316537222",
+    "popular": true
+  },
+  {
+    "id": "pg-35",
+    "name": "HSR Layout Comfort Stay 35",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Girls",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 20851,
+    "rating": 4.2,
+    "amenities": [
+      "Parking",
+      "Food Included",
+      "AC",
+      "Laundry",
+      "Power Backup",
+      "Furnished"
+    ],
+    "lat": 12.892865,
+    "lng": 77.637303,
+    "image": "https://images.unsplash.com/photo-1500000000035?auto=format&fit=crop&w=1200&q=80",
+    "address": "287, HSR Layout, Bengaluru",
+    "metroDistanceKm": 1.3,
+    "phone": "+91 9678778942",
+    "whatsapp": "919526903562",
+    "popular": false
+  },
+  {
+    "id": "pg-36",
+    "name": "BTM Layout Comfort Stay 36",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 24481,
+    "rating": 4.6,
+    "amenities": [
+      "Attached Bathroom",
+      "Parking",
+      "Power Backup",
+      "Laundry",
+      "AC",
+      "Food Included",
+      "Furnished",
+      "WiFi",
+      "CCTV"
+    ],
+    "lat": 12.902735,
+    "lng": 77.605482,
+    "image": "https://images.unsplash.com/photo-1500000000036?auto=format&fit=crop&w=1200&q=80",
+    "address": "116, BTM Layout, Bengaluru",
+    "metroDistanceKm": 3.2,
+    "phone": "+91 9855400969",
+    "whatsapp": "919828593639",
+    "popular": true
+  },
+  {
+    "id": "pg-37",
+    "name": "Whitefield Comfort Stay 37",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Boys",
+    "occupancy": [
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "rent": 11780,
+    "rating": 3.9,
+    "amenities": [
+      "Attached Bathroom",
+      "CCTV",
+      "Laundry",
+      "Power Backup"
+    ],
+    "lat": 12.988898,
+    "lng": 77.751504,
+    "image": "https://images.unsplash.com/photo-1500000000037?auto=format&fit=crop&w=1200&q=80",
+    "address": "142, Whitefield, Bengaluru",
+    "metroDistanceKm": 0.6,
+    "phone": "+91 9354297145",
+    "whatsapp": "919331957643",
+    "popular": false
+  },
+  {
+    "id": "pg-38",
+    "name": "Whitefield Comfort Stay 38",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "rent": 27135,
+    "rating": 3.7,
+    "amenities": [
+      "Furnished",
+      "WiFi",
+      "Laundry",
+      "Parking",
+      "AC",
+      "Food Included",
+      "Power Backup",
+      "CCTV"
+    ],
+    "lat": 12.97981,
+    "lng": 77.767746,
+    "image": "https://images.unsplash.com/photo-1500000000038?auto=format&fit=crop&w=1200&q=80",
+    "address": "132, Whitefield, Bengaluru",
+    "metroDistanceKm": 0.2,
+    "phone": "+91 9703911632",
+    "whatsapp": "919684511454",
+    "popular": true
+  },
+  {
+    "id": "pg-39",
+    "name": "Yelahanka Comfort Stay 39",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 21256,
+    "rating": 4.0,
+    "amenities": [
+      "CCTV",
+      "AC",
+      "Laundry",
+      "WiFi",
+      "Food Included"
+    ],
+    "lat": 13.095144,
+    "lng": 77.604083,
+    "image": "https://images.unsplash.com/photo-1500000000039?auto=format&fit=crop&w=1200&q=80",
+    "address": "188, Yelahanka, Bengaluru",
+    "metroDistanceKm": 3.7,
+    "phone": "+91 9827915223",
+    "whatsapp": "919151780728",
+    "popular": true
+  },
+  {
+    "id": "pg-40",
+    "name": "JP Nagar Comfort Stay 40",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Double"
+    ],
+    "rent": 14213,
+    "rating": 4.7,
+    "amenities": [
+      "Food Included",
+      "WiFi",
+      "Parking",
+      "Furnished",
+      "Power Backup",
+      "Laundry",
+      "CCTV",
+      "Attached Bathroom"
+    ],
+    "lat": 12.906689,
+    "lng": 77.59384,
+    "image": "https://images.unsplash.com/photo-1500000000040?auto=format&fit=crop&w=1200&q=80",
+    "address": "287, JP Nagar, Bengaluru",
+    "metroDistanceKm": 4.1,
+    "phone": "+91 9698377366",
+    "whatsapp": "919710913846",
+    "popular": true
+  },
+  {
+    "id": "pg-41",
+    "name": "Koramangala Comfort Stay 41",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Girls",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 15369,
+    "rating": 4.6,
+    "amenities": [
+      "Laundry",
+      "AC",
+      "Power Backup",
+      "Food Included",
+      "Furnished",
+      "WiFi",
+      "Parking",
+      "Attached Bathroom",
+      "CCTV"
+    ],
+    "lat": 12.932324,
+    "lng": 77.6062,
+    "image": "https://images.unsplash.com/photo-1500000000041?auto=format&fit=crop&w=1200&q=80",
+    "address": "247, Koramangala, Bengaluru",
+    "metroDistanceKm": 0.6,
+    "phone": "+91 9164395696",
+    "whatsapp": "919158173787",
+    "popular": false
+  },
+  {
+    "id": "pg-42",
+    "name": "Koramangala Comfort Stay 42",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Triple"
+    ],
+    "rent": 21806,
+    "rating": 4.2,
+    "amenities": [
+      "Power Backup",
+      "Furnished",
+      "WiFi",
+      "Food Included",
+      "Attached Bathroom",
+      "CCTV",
+      "Parking",
+      "Laundry"
+    ],
+    "lat": 12.920974,
+    "lng": 77.635252,
+    "image": "https://images.unsplash.com/photo-1500000000042?auto=format&fit=crop&w=1200&q=80",
+    "address": "257, Koramangala, Bengaluru",
+    "metroDistanceKm": 1.1,
+    "phone": "+91 9583052285",
+    "whatsapp": "919692027283",
+    "popular": false
+  },
+  {
+    "id": "pg-43",
+    "name": "Koramangala Comfort Stay 43",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Triple"
+    ],
+    "rent": 12905,
+    "rating": 4.0,
+    "amenities": [
+      "Laundry",
+      "Parking",
+      "Furnished",
+      "CCTV",
+      "WiFi",
+      "Power Backup"
+    ],
+    "lat": 12.946049,
+    "lng": 77.605657,
+    "image": "https://images.unsplash.com/photo-1500000000043?auto=format&fit=crop&w=1200&q=80",
+    "address": "187, Koramangala, Bengaluru",
+    "metroDistanceKm": 3.5,
+    "phone": "+91 9271650484",
+    "whatsapp": "919284147153",
+    "popular": false
+  },
+  {
+    "id": "pg-44",
+    "name": "BTM Layout Comfort Stay 44",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Triple"
+    ],
+    "rent": 20977,
+    "rating": 3.7,
+    "amenities": [
+      "Attached Bathroom",
+      "CCTV",
+      "Food Included",
+      "Parking",
+      "AC"
+    ],
+    "lat": 12.932841,
+    "lng": 77.613886,
+    "image": "https://images.unsplash.com/photo-1500000000044?auto=format&fit=crop&w=1200&q=80",
+    "address": "289, BTM Layout, Bengaluru",
+    "metroDistanceKm": 0.3,
+    "phone": "+91 9214272604",
+    "whatsapp": "919184784243",
+    "popular": true
+  },
+  {
+    "id": "pg-45",
+    "name": "Koramangala Comfort Stay 45",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 12715,
+    "rating": 4.5,
+    "amenities": [
+      "Power Backup",
+      "Food Included",
+      "Attached Bathroom",
+      "WiFi",
+      "CCTV",
+      "Parking",
+      "AC"
+    ],
+    "lat": 12.951891,
+    "lng": 77.625006,
+    "image": "https://images.unsplash.com/photo-1500000000045?auto=format&fit=crop&w=1200&q=80",
+    "address": "149, Koramangala, Bengaluru",
+    "metroDistanceKm": 0.7,
+    "phone": "+91 9318560955",
+    "whatsapp": "919315936158",
+    "popular": true
+  },
+  {
+    "id": "pg-46",
+    "name": "Bellandur Comfort Stay 46",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Boys",
+    "occupancy": [
+      "Triple",
+      "Single"
+    ],
+    "rent": 17140,
+    "rating": 4.6,
+    "amenities": [
+      "AC",
+      "Furnished",
+      "Food Included",
+      "WiFi",
+      "Laundry",
+      "Parking"
+    ],
+    "lat": 12.916859,
+    "lng": 77.692536,
+    "image": "https://images.unsplash.com/photo-1500000000046?auto=format&fit=crop&w=1200&q=80",
+    "address": "145, Bellandur, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9730222388",
+    "whatsapp": "919773475239",
+    "popular": true
+  },
+  {
+    "id": "pg-47",
+    "name": "Whitefield Comfort Stay 47",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 27711,
+    "rating": 4.5,
+    "amenities": [
+      "WiFi",
+      "Attached Bathroom",
+      "AC",
+      "Parking",
+      "CCTV",
+      "Power Backup",
+      "Furnished",
+      "Food Included"
+    ],
+    "lat": 12.956466,
+    "lng": 77.742936,
+    "image": "https://images.unsplash.com/photo-1500000000047?auto=format&fit=crop&w=1200&q=80",
+    "address": "85, Whitefield, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9527147147",
+    "whatsapp": "919741012865",
+    "popular": false
+  },
+  {
+    "id": "pg-48",
+    "name": "Jayanagar Comfort Stay 48",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 14388,
+    "rating": 4.5,
+    "amenities": [
+      "Power Backup",
+      "Attached Bathroom",
+      "Furnished",
+      "WiFi",
+      "AC",
+      "Parking",
+      "Food Included",
+      "Laundry"
+    ],
+    "lat": 12.930353,
+    "lng": 77.609037,
+    "image": "https://images.unsplash.com/photo-1500000000048?auto=format&fit=crop&w=1200&q=80",
+    "address": "49, Jayanagar, Bengaluru",
+    "metroDistanceKm": 3.7,
+    "phone": "+91 9452163086",
+    "whatsapp": "919855616731",
+    "popular": false
+  },
+  {
+    "id": "pg-49",
+    "name": "Bellandur Comfort Stay 49",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 11488,
+    "rating": 4.4,
+    "amenities": [
+      "Laundry",
+      "Power Backup",
+      "Attached Bathroom",
+      "Furnished",
+      "AC",
+      "Parking",
+      "CCTV",
+      "Food Included"
+    ],
+    "lat": 12.917979,
+    "lng": 77.688283,
+    "image": "https://images.unsplash.com/photo-1500000000049?auto=format&fit=crop&w=1200&q=80",
+    "address": "76, Bellandur, Bengaluru",
+    "metroDistanceKm": 2.5,
+    "phone": "+91 9592507155",
+    "whatsapp": "919561401412",
+    "popular": false
+  },
+  {
+    "id": "pg-50",
+    "name": "Rajajinagar Comfort Stay 50",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 9934,
+    "rating": 3.8,
+    "amenities": [
+      "CCTV",
+      "Parking",
+      "Attached Bathroom",
+      "WiFi",
+      "Furnished",
+      "AC",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.994182,
+    "lng": 77.542669,
+    "image": "https://images.unsplash.com/photo-1500000000050?auto=format&fit=crop&w=1200&q=80",
+    "address": "235, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 1.6,
+    "phone": "+91 9804491454",
+    "whatsapp": "919984214100",
+    "popular": false
+  },
+  {
+    "id": "pg-51",
+    "name": "Bellandur Comfort Stay 51",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Single"
+    ],
+    "rent": 21706,
+    "rating": 4.5,
+    "amenities": [
+      "Furnished",
+      "Food Included",
+      "Power Backup",
+      "CCTV",
+      "Parking",
+      "Laundry",
+      "WiFi",
+      "Attached Bathroom"
+    ],
+    "lat": 12.925623,
+    "lng": 77.662071,
+    "image": "https://images.unsplash.com/photo-1500000000051?auto=format&fit=crop&w=1200&q=80",
+    "address": "32, Bellandur, Bengaluru",
+    "metroDistanceKm": 4.7,
+    "phone": "+91 9643165984",
+    "whatsapp": "919499866251",
+    "popular": true
+  },
+  {
+    "id": "pg-52",
+    "name": "Hebbal Comfort Stay 52",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Triple"
+    ],
+    "rent": 12372,
+    "rating": 4.5,
+    "amenities": [
+      "Food Included",
+      "CCTV",
+      "WiFi",
+      "Laundry",
+      "Furnished",
+      "Attached Bathroom",
+      "AC",
+      "Power Backup",
+      "Parking"
+    ],
+    "lat": 13.039345,
+    "lng": 77.579547,
+    "image": "https://images.unsplash.com/photo-1500000000052?auto=format&fit=crop&w=1200&q=80",
+    "address": "41, Hebbal, Bengaluru",
+    "metroDistanceKm": 3.6,
+    "phone": "+91 9310746125",
+    "whatsapp": "919400425376",
+    "popular": false
+  },
+  {
+    "id": "pg-53",
+    "name": "Yelahanka Comfort Stay 53",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 16415,
+    "rating": 4.0,
+    "amenities": [
+      "CCTV",
+      "WiFi",
+      "Food Included",
+      "Parking",
+      "Furnished",
+      "AC",
+      "Power Backup",
+      "Attached Bathroom"
+    ],
+    "lat": 13.10275,
+    "lng": 77.59291,
+    "image": "https://images.unsplash.com/photo-1500000000053?auto=format&fit=crop&w=1200&q=80",
+    "address": "162, Yelahanka, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9494471940",
+    "whatsapp": "919214078637",
+    "popular": false
+  },
+  {
+    "id": "pg-54",
+    "name": "Electronic City Comfort Stay 54",
+    "area": "Electronic City",
+    "locality": "Electronic City",
+    "type": "Boys",
+    "occupancy": [
+      "Double",
+      "Triple",
+      "Single"
+    ],
+    "rent": 9735,
+    "rating": 4.6,
+    "amenities": [
+      "Power Backup",
+      "Attached Bathroom",
+      "AC",
+      "CCTV"
+    ],
+    "lat": 12.85548,
+    "lng": 77.689736,
+    "image": "https://images.unsplash.com/photo-1500000000054?auto=format&fit=crop&w=1200&q=80",
+    "address": "47, Electronic City, Bengaluru",
+    "metroDistanceKm": 0.9,
+    "phone": "+91 9775567732",
+    "whatsapp": "919588481086",
+    "popular": true
+  },
+  {
+    "id": "pg-55",
+    "name": "Koramangala Comfort Stay 55",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 16428,
+    "rating": 4.4,
+    "amenities": [
+      "CCTV",
+      "Food Included",
+      "Parking",
+      "AC",
+      "Power Backup",
+      "WiFi",
+      "Attached Bathroom"
+    ],
+    "lat": 12.923361,
+    "lng": 77.612687,
+    "image": "https://images.unsplash.com/photo-1500000000055?auto=format&fit=crop&w=1200&q=80",
+    "address": "209, Koramangala, Bengaluru",
+    "metroDistanceKm": 4.2,
+    "phone": "+91 9747306505",
+    "whatsapp": "919863524320",
+    "popular": false
+  },
+  {
+    "id": "pg-56",
+    "name": "Jayanagar Comfort Stay 56",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 13455,
+    "rating": 3.6,
+    "amenities": [
+      "CCTV",
+      "Furnished",
+      "Attached Bathroom",
+      "AC",
+      "Laundry",
+      "Parking",
+      "Food Included",
+      "Power Backup"
+    ],
+    "lat": 12.940944,
+    "lng": 77.603241,
+    "image": "https://images.unsplash.com/photo-1500000000056?auto=format&fit=crop&w=1200&q=80",
+    "address": "38, Jayanagar, Bengaluru",
+    "metroDistanceKm": 4.1,
+    "phone": "+91 9733534046",
+    "whatsapp": "919757469649",
+    "popular": false
+  },
+  {
+    "id": "pg-57",
+    "name": "Jayanagar Comfort Stay 57",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 6667,
+    "rating": 4.1,
+    "amenities": [
+      "Laundry",
+      "Power Backup",
+      "Furnished",
+      "Food Included",
+      "CCTV",
+      "Parking"
+    ],
+    "lat": 12.939387,
+    "lng": 77.575038,
+    "image": "https://images.unsplash.com/photo-1500000000057?auto=format&fit=crop&w=1200&q=80",
+    "address": "53, Jayanagar, Bengaluru",
+    "metroDistanceKm": 2.5,
+    "phone": "+91 9757867235",
+    "whatsapp": "919986413422",
+    "popular": false
+  },
+  {
+    "id": "pg-58",
+    "name": "Electronic City Comfort Stay 58",
+    "area": "Electronic City",
+    "locality": "Electronic City",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 21155,
+    "rating": 3.9,
+    "amenities": [
+      "Food Included",
+      "Power Backup",
+      "Attached Bathroom",
+      "AC",
+      "Parking"
+    ],
+    "lat": 12.832069,
+    "lng": 77.667517,
+    "image": "https://images.unsplash.com/photo-1500000000058?auto=format&fit=crop&w=1200&q=80",
+    "address": "68, Electronic City, Bengaluru",
+    "metroDistanceKm": 3.2,
+    "phone": "+91 9433178745",
+    "whatsapp": "919872092332",
+    "popular": true
+  },
+  {
+    "id": "pg-59",
+    "name": "Jayanagar Comfort Stay 59",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 14400,
+    "rating": 4.9,
+    "amenities": [
+      "Attached Bathroom",
+      "WiFi",
+      "Furnished",
+      "Food Included"
+    ],
+    "lat": 12.920997,
+    "lng": 77.598057,
+    "image": "https://images.unsplash.com/photo-1500000000059?auto=format&fit=crop&w=1200&q=80",
+    "address": "76, Jayanagar, Bengaluru",
+    "metroDistanceKm": 2.8,
+    "phone": "+91 9623300547",
+    "whatsapp": "919295409072",
+    "popular": true
+  },
+  {
+    "id": "pg-60",
+    "name": "Yelahanka Comfort Stay 60",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 18854,
+    "rating": 4.3,
+    "amenities": [
+      "Parking",
+      "Attached Bathroom",
+      "Power Backup",
+      "CCTV",
+      "Furnished"
+    ],
+    "lat": 13.112786,
+    "lng": 77.595703,
+    "image": "https://images.unsplash.com/photo-1500000000060?auto=format&fit=crop&w=1200&q=80",
+    "address": "296, Yelahanka, Bengaluru",
+    "metroDistanceKm": 1.2,
+    "phone": "+91 9755278563",
+    "whatsapp": "919203809151",
+    "popular": false
+  },
+  {
+    "id": "pg-61",
+    "name": "Koramangala Comfort Stay 61",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 8578,
+    "rating": 4.8,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Furnished",
+      "AC",
+      "Laundry",
+      "Attached Bathroom",
+      "CCTV"
+    ],
+    "lat": 12.922056,
+    "lng": 77.631449,
+    "image": "https://images.unsplash.com/photo-1500000000061?auto=format&fit=crop&w=1200&q=80",
+    "address": "79, Koramangala, Bengaluru",
+    "metroDistanceKm": 2.0,
+    "phone": "+91 9440707182",
+    "whatsapp": "919803150898",
+    "popular": true
+  },
+  {
+    "id": "pg-62",
+    "name": "Jayanagar Comfort Stay 62",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Girls",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 19310,
+    "rating": 4.5,
+    "amenities": [
+      "Furnished",
+      "Attached Bathroom",
+      "Laundry",
+      "Power Backup",
+      "AC"
+    ],
+    "lat": 12.932407,
+    "lng": 77.611991,
+    "image": "https://images.unsplash.com/photo-1500000000062?auto=format&fit=crop&w=1200&q=80",
+    "address": "13, Jayanagar, Bengaluru",
+    "metroDistanceKm": 0.7,
+    "phone": "+91 9546242630",
+    "whatsapp": "919288178716",
+    "popular": true
+  },
+  {
+    "id": "pg-63",
+    "name": "BTM Layout Comfort Stay 63",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 21585,
+    "rating": 4.9,
+    "amenities": [
+      "Parking",
+      "Furnished",
+      "AC",
+      "Attached Bathroom",
+      "Food Included"
+    ],
+    "lat": 12.911085,
+    "lng": 77.628473,
+    "image": "https://images.unsplash.com/photo-1500000000063?auto=format&fit=crop&w=1200&q=80",
+    "address": "2, BTM Layout, Bengaluru",
+    "metroDistanceKm": 3.1,
+    "phone": "+91 9223904036",
+    "whatsapp": "919112590224",
+    "popular": false
+  },
+  {
+    "id": "pg-64",
+    "name": "Koramangala Comfort Stay 64",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Triple"
+    ],
+    "rent": 7739,
+    "rating": 4.4,
+    "amenities": [
+      "WiFi",
+      "Attached Bathroom",
+      "CCTV",
+      "Food Included",
+      "Furnished",
+      "Parking",
+      "Laundry"
+    ],
+    "lat": 12.937384,
+    "lng": 77.644369,
+    "image": "https://images.unsplash.com/photo-1500000000064?auto=format&fit=crop&w=1200&q=80",
+    "address": "125, Koramangala, Bengaluru",
+    "metroDistanceKm": 3.9,
+    "phone": "+91 9327759012",
+    "whatsapp": "919556290344",
+    "popular": true
+  },
+  {
+    "id": "pg-65",
+    "name": "HSR Layout Comfort Stay 65",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 9872,
+    "rating": 4.8,
+    "amenities": [
+      "Laundry",
+      "Furnished",
+      "AC",
+      "Food Included",
+      "Attached Bathroom",
+      "WiFi",
+      "Power Backup",
+      "Parking"
+    ],
+    "lat": 12.9185,
+    "lng": 77.643405,
+    "image": "https://images.unsplash.com/photo-1500000000065?auto=format&fit=crop&w=1200&q=80",
+    "address": "195, HSR Layout, Bengaluru",
+    "metroDistanceKm": 0.9,
+    "phone": "+91 9718556339",
+    "whatsapp": "919430469723",
+    "popular": false
+  },
+  {
+    "id": "pg-66",
+    "name": "Marathahalli Comfort Stay 66",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Girls",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 7840,
+    "rating": 4.7,
+    "amenities": [
+      "CCTV",
+      "Furnished",
+      "Parking",
+      "AC",
+      "Food Included",
+      "Laundry",
+      "Attached Bathroom"
+    ],
+    "lat": 12.978813,
+    "lng": 77.686061,
+    "image": "https://images.unsplash.com/photo-1500000000066?auto=format&fit=crop&w=1200&q=80",
+    "address": "34, Marathahalli, Bengaluru",
+    "metroDistanceKm": 2.2,
+    "phone": "+91 9224117259",
+    "whatsapp": "919649256551",
+    "popular": false
+  },
+  {
+    "id": "pg-67",
+    "name": "Koramangala Comfort Stay 67",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Triple"
+    ],
+    "rent": 11534,
+    "rating": 4.3,
+    "amenities": [
+      "Laundry",
+      "Furnished",
+      "Attached Bathroom",
+      "WiFi",
+      "Power Backup",
+      "Parking"
+    ],
+    "lat": 12.935174,
+    "lng": 77.636154,
+    "image": "https://images.unsplash.com/photo-1500000000067?auto=format&fit=crop&w=1200&q=80",
+    "address": "282, Koramangala, Bengaluru",
+    "metroDistanceKm": 2.2,
+    "phone": "+91 9306543177",
+    "whatsapp": "919858963464",
+    "popular": false
+  },
+  {
+    "id": "pg-68",
+    "name": "Hebbal Comfort Stay 68",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Girls",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 21159,
+    "rating": 3.8,
+    "amenities": [
+      "Attached Bathroom",
+      "AC",
+      "Furnished",
+      "Power Backup",
+      "Laundry",
+      "CCTV"
+    ],
+    "lat": 13.018287,
+    "lng": 77.59182,
+    "image": "https://images.unsplash.com/photo-1500000000068?auto=format&fit=crop&w=1200&q=80",
+    "address": "260, Hebbal, Bengaluru",
+    "metroDistanceKm": 1.8,
+    "phone": "+91 9839297910",
+    "whatsapp": "919417771617",
+    "popular": true
+  },
+  {
+    "id": "pg-69",
+    "name": "Yelahanka Comfort Stay 69",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Girls",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 23488,
+    "rating": 4.9,
+    "amenities": [
+      "Attached Bathroom",
+      "CCTV",
+      "AC",
+      "Food Included",
+      "Power Backup"
+    ],
+    "lat": 13.104471,
+    "lng": 77.583268,
+    "image": "https://images.unsplash.com/photo-1500000000069?auto=format&fit=crop&w=1200&q=80",
+    "address": "253, Yelahanka, Bengaluru",
+    "metroDistanceKm": 3.5,
+    "phone": "+91 9490764151",
+    "whatsapp": "919906007247",
+    "popular": false
+  },
+  {
+    "id": "pg-70",
+    "name": "JP Nagar Comfort Stay 70",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Double"
+    ],
+    "rent": 19068,
+    "rating": 4.2,
+    "amenities": [
+      "Parking",
+      "CCTV",
+      "Power Backup",
+      "WiFi",
+      "Attached Bathroom",
+      "Food Included"
+    ],
+    "lat": 12.908624,
+    "lng": 77.569918,
+    "image": "https://images.unsplash.com/photo-1500000000070?auto=format&fit=crop&w=1200&q=80",
+    "address": "142, JP Nagar, Bengaluru",
+    "metroDistanceKm": 4.8,
+    "phone": "+91 9949450495",
+    "whatsapp": "919281724028",
+    "popular": true
+  },
+  {
+    "id": "pg-71",
+    "name": "Whitefield Comfort Stay 71",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Girls",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 11273,
+    "rating": 4.5,
+    "amenities": [
+      "Parking",
+      "Food Included",
+      "Furnished",
+      "Laundry",
+      "Power Backup",
+      "CCTV",
+      "AC"
+    ],
+    "lat": 12.976004,
+    "lng": 77.737153,
+    "image": "https://images.unsplash.com/photo-1500000000071?auto=format&fit=crop&w=1200&q=80",
+    "address": "50, Whitefield, Bengaluru",
+    "metroDistanceKm": 4.1,
+    "phone": "+91 9211992890",
+    "whatsapp": "919564793931",
+    "popular": false
+  },
+  {
+    "id": "pg-72",
+    "name": "JP Nagar Comfort Stay 72",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Boys",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 14998,
+    "rating": 3.9,
+    "amenities": [
+      "Attached Bathroom",
+      "Power Backup",
+      "WiFi",
+      "Parking",
+      "CCTV",
+      "Laundry",
+      "Food Included",
+      "AC",
+      "Furnished"
+    ],
+    "lat": 12.922074,
+    "lng": 77.602265,
+    "image": "https://images.unsplash.com/photo-1500000000072?auto=format&fit=crop&w=1200&q=80",
+    "address": "216, JP Nagar, Bengaluru",
+    "metroDistanceKm": 2.9,
+    "phone": "+91 9208986230",
+    "whatsapp": "919378036757",
+    "popular": true
+  },
+  {
+    "id": "pg-73",
+    "name": "Marathahalli Comfort Stay 73",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 16544,
+    "rating": 4.4,
+    "amenities": [
+      "Furnished",
+      "WiFi",
+      "AC",
+      "Parking",
+      "Power Backup",
+      "CCTV",
+      "Laundry"
+    ],
+    "lat": 12.941689,
+    "lng": 77.69466,
+    "image": "https://images.unsplash.com/photo-1500000000073?auto=format&fit=crop&w=1200&q=80",
+    "address": "103, Marathahalli, Bengaluru",
+    "metroDistanceKm": 1.6,
+    "phone": "+91 9420677861",
+    "whatsapp": "919983318606",
+    "popular": true
+  },
+  {
+    "id": "pg-74",
+    "name": "Marathahalli Comfort Stay 74",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 22861,
+    "rating": 3.9,
+    "amenities": [
+      "Parking",
+      "Attached Bathroom",
+      "Food Included",
+      "Furnished",
+      "CCTV"
+    ],
+    "lat": 12.953109,
+    "lng": 77.711013,
+    "image": "https://images.unsplash.com/photo-1500000000074?auto=format&fit=crop&w=1200&q=80",
+    "address": "264, Marathahalli, Bengaluru",
+    "metroDistanceKm": 2.5,
+    "phone": "+91 9874683303",
+    "whatsapp": "919617534558",
+    "popular": false
+  },
+  {
+    "id": "pg-75",
+    "name": "Bellandur Comfort Stay 75",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Girls",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 19074,
+    "rating": 4.0,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Laundry",
+      "WiFi",
+      "Power Backup",
+      "CCTV",
+      "Attached Bathroom",
+      "Furnished",
+      "Food Included"
+    ],
+    "lat": 12.917657,
+    "lng": 77.662688,
+    "image": "https://images.unsplash.com/photo-1500000000075?auto=format&fit=crop&w=1200&q=80",
+    "address": "296, Bellandur, Bengaluru",
+    "metroDistanceKm": 2.9,
+    "phone": "+91 9971424244",
+    "whatsapp": "919368579457",
+    "popular": true
+  },
+  {
+    "id": "pg-76",
+    "name": "Indiranagar Comfort Stay 76",
+    "area": "Indiranagar",
+    "locality": "Indiranagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Triple",
+      "Single"
+    ],
+    "rent": 15803,
+    "rating": 4.1,
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "Laundry",
+      "Power Backup",
+      "CCTV",
+      "AC",
+      "Food Included"
+    ],
+    "lat": 12.973918,
+    "lng": 77.642862,
+    "image": "https://images.unsplash.com/photo-1500000000076?auto=format&fit=crop&w=1200&q=80",
+    "address": "264, Indiranagar, Bengaluru",
+    "metroDistanceKm": 3.6,
+    "phone": "+91 9950133977",
+    "whatsapp": "919497986005",
+    "popular": false
+  },
+  {
+    "id": "pg-77",
+    "name": "JP Nagar Comfort Stay 77",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Girls",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 21042,
+    "rating": 3.7,
+    "amenities": [
+      "Attached Bathroom",
+      "AC",
+      "Parking",
+      "Food Included",
+      "Laundry",
+      "Power Backup",
+      "WiFi",
+      "Furnished"
+    ],
+    "lat": 12.914545,
+    "lng": 77.572653,
+    "image": "https://images.unsplash.com/photo-1500000000077?auto=format&fit=crop&w=1200&q=80",
+    "address": "157, JP Nagar, Bengaluru",
+    "metroDistanceKm": 0.3,
+    "phone": "+91 9721610262",
+    "whatsapp": "919585788181",
+    "popular": false
+  },
+  {
+    "id": "pg-78",
+    "name": "JP Nagar Comfort Stay 78",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "rent": 9600,
+    "rating": 4.3,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Laundry",
+      "Furnished",
+      "AC",
+      "Attached Bathroom",
+      "CCTV",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.921581,
+    "lng": 77.596694,
+    "image": "https://images.unsplash.com/photo-1500000000078?auto=format&fit=crop&w=1200&q=80",
+    "address": "235, JP Nagar, Bengaluru",
+    "metroDistanceKm": 3.9,
+    "phone": "+91 9633192577",
+    "whatsapp": "919751744698",
+    "popular": true
+  },
+  {
+    "id": "pg-79",
+    "name": "Koramangala Comfort Stay 79",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 11535,
+    "rating": 3.7,
+    "amenities": [
+      "Power Backup",
+      "CCTV",
+      "Laundry",
+      "Attached Bathroom",
+      "Parking",
+      "WiFi",
+      "Food Included",
+      "AC",
+      "Furnished"
+    ],
+    "lat": 12.944457,
+    "lng": 77.615206,
+    "image": "https://images.unsplash.com/photo-1500000000079?auto=format&fit=crop&w=1200&q=80",
+    "address": "62, Koramangala, Bengaluru",
+    "metroDistanceKm": 3.7,
+    "phone": "+91 9774978408",
+    "whatsapp": "919607727887",
+    "popular": false
+  },
+  {
+    "id": "pg-80",
+    "name": "Jayanagar Comfort Stay 80",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 23129,
+    "rating": 4.3,
+    "amenities": [
+      "Parking",
+      "Power Backup",
+      "CCTV",
+      "Food Included",
+      "Furnished",
+      "Laundry",
+      "AC",
+      "WiFi",
+      "Attached Bathroom"
+    ],
+    "lat": 12.93482,
+    "lng": 77.595379,
+    "image": "https://images.unsplash.com/photo-1500000000080?auto=format&fit=crop&w=1200&q=80",
+    "address": "3, Jayanagar, Bengaluru",
+    "metroDistanceKm": 1.3,
+    "phone": "+91 9464203438",
+    "whatsapp": "919713760047",
+    "popular": false
+  },
+  {
+    "id": "pg-81",
+    "name": "Whitefield Comfort Stay 81",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 17946,
+    "rating": 4.0,
+    "amenities": [
+      "Laundry",
+      "Furnished",
+      "Power Backup",
+      "Parking",
+      "WiFi",
+      "Food Included"
+    ],
+    "lat": 12.958466,
+    "lng": 77.755761,
+    "image": "https://images.unsplash.com/photo-1500000000081?auto=format&fit=crop&w=1200&q=80",
+    "address": "179, Whitefield, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9981510718",
+    "whatsapp": "919545359894",
+    "popular": false
+  },
+  {
+    "id": "pg-82",
+    "name": "Bellandur Comfort Stay 82",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 16094,
+    "rating": 3.6,
+    "amenities": [
+      "WiFi",
+      "CCTV",
+      "Attached Bathroom",
+      "Parking",
+      "Laundry",
+      "Furnished",
+      "AC",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.926147,
+    "lng": 77.691026,
+    "image": "https://images.unsplash.com/photo-1500000000082?auto=format&fit=crop&w=1200&q=80",
+    "address": "286, Bellandur, Bengaluru",
+    "metroDistanceKm": 3.0,
+    "phone": "+91 9947668288",
+    "whatsapp": "919647018510",
+    "popular": true
+  },
+  {
+    "id": "pg-83",
+    "name": "Whitefield Comfort Stay 83",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 19853,
+    "rating": 4.3,
+    "amenities": [
+      "Food Included",
+      "Laundry",
+      "Furnished",
+      "Power Backup"
+    ],
+    "lat": 12.968105,
+    "lng": 77.736899,
+    "image": "https://images.unsplash.com/photo-1500000000083?auto=format&fit=crop&w=1200&q=80",
+    "address": "199, Whitefield, Bengaluru",
+    "metroDistanceKm": 2.5,
+    "phone": "+91 9564239045",
+    "whatsapp": "919466296745",
+    "popular": false
+  },
+  {
+    "id": "pg-84",
+    "name": "Yelahanka Comfort Stay 84",
+    "area": "Yelahanka",
+    "locality": "Yelahanka",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 12591,
+    "rating": 3.6,
+    "amenities": [
+      "AC",
+      "Attached Bathroom",
+      "Furnished",
+      "WiFi",
+      "Power Backup"
+    ],
+    "lat": 13.117258,
+    "lng": 77.582795,
+    "image": "https://images.unsplash.com/photo-1500000000084?auto=format&fit=crop&w=1200&q=80",
+    "address": "87, Yelahanka, Bengaluru",
+    "metroDistanceKm": 0.5,
+    "phone": "+91 9320260113",
+    "whatsapp": "919808937971",
+    "popular": true
+  },
+  {
+    "id": "pg-85",
+    "name": "Jayanagar Comfort Stay 85",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 7375,
+    "rating": 3.7,
+    "amenities": [
+      "Attached Bathroom",
+      "Furnished",
+      "Laundry",
+      "Parking",
+      "CCTV",
+      "Food Included",
+      "WiFi",
+      "AC",
+      "Power Backup"
+    ],
+    "lat": 12.93531,
+    "lng": 77.603262,
+    "image": "https://images.unsplash.com/photo-1500000000085?auto=format&fit=crop&w=1200&q=80",
+    "address": "125, Jayanagar, Bengaluru",
+    "metroDistanceKm": 4.3,
+    "phone": "+91 9810141761",
+    "whatsapp": "919872636728",
+    "popular": false
+  },
+  {
+    "id": "pg-86",
+    "name": "JP Nagar Comfort Stay 86",
+    "area": "JP Nagar",
+    "locality": "JP Nagar",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 17183,
+    "rating": 4.8,
+    "amenities": [
+      "Power Backup",
+      "Food Included",
+      "WiFi",
+      "Furnished",
+      "Parking"
+    ],
+    "lat": 12.915292,
+    "lng": 77.597767,
+    "image": "https://images.unsplash.com/photo-1500000000086?auto=format&fit=crop&w=1200&q=80",
+    "address": "279, JP Nagar, Bengaluru",
+    "metroDistanceKm": 1.8,
+    "phone": "+91 9694387099",
+    "whatsapp": "919171744130",
+    "popular": false
+  },
+  {
+    "id": "pg-87",
+    "name": "BTM Layout Comfort Stay 87",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 17794,
+    "rating": 4.2,
+    "amenities": [
+      "Laundry",
+      "Power Backup",
+      "AC",
+      "Furnished",
+      "CCTV"
+    ],
+    "lat": 12.909646,
+    "lng": 77.614504,
+    "image": "https://images.unsplash.com/photo-1500000000087?auto=format&fit=crop&w=1200&q=80",
+    "address": "202, BTM Layout, Bengaluru",
+    "metroDistanceKm": 1.7,
+    "phone": "+91 9314155499",
+    "whatsapp": "919105354167",
+    "popular": false
+  },
+  {
+    "id": "pg-88",
+    "name": "Bellandur Comfort Stay 88",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 26464,
+    "rating": 3.7,
+    "amenities": [
+      "Attached Bathroom",
+      "CCTV",
+      "Parking",
+      "WiFi",
+      "Food Included",
+      "Power Backup",
+      "Laundry"
+    ],
+    "lat": 12.935393,
+    "lng": 77.686585,
+    "image": "https://images.unsplash.com/photo-1500000000088?auto=format&fit=crop&w=1200&q=80",
+    "address": "30, Bellandur, Bengaluru",
+    "metroDistanceKm": 2.8,
+    "phone": "+91 9883955443",
+    "whatsapp": "919998501353",
+    "popular": true
+  },
+  {
+    "id": "pg-89",
+    "name": "Rajajinagar Comfort Stay 89",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Girls",
+    "occupancy": [
+      "Double",
+      "Triple"
+    ],
+    "rent": 16260,
+    "rating": 3.8,
+    "amenities": [
+      "Parking",
+      "CCTV",
+      "Furnished",
+      "Food Included",
+      "AC",
+      "Attached Bathroom",
+      "Power Backup",
+      "Laundry"
+    ],
+    "lat": 12.983101,
+    "lng": 77.551564,
+    "image": "https://images.unsplash.com/photo-1500000000089?auto=format&fit=crop&w=1200&q=80",
+    "address": "144, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 4.3,
+    "phone": "+91 9910966394",
+    "whatsapp": "919361229752",
+    "popular": true
+  },
+  {
+    "id": "pg-90",
+    "name": "Rajajinagar Comfort Stay 90",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Single"
+    ],
+    "rent": 9127,
+    "rating": 4.5,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Furnished",
+      "AC",
+      "Laundry",
+      "Attached Bathroom"
+    ],
+    "lat": 13.009755,
+    "lng": 77.568118,
+    "image": "https://images.unsplash.com/photo-1500000000090?auto=format&fit=crop&w=1200&q=80",
+    "address": "213, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 3.0,
+    "phone": "+91 9913555314",
+    "whatsapp": "919859003930",
+    "popular": false
+  },
+  {
+    "id": "pg-91",
+    "name": "Koramangala Comfort Stay 91",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 9265,
+    "rating": 4.7,
+    "amenities": [
+      "AC",
+      "Attached Bathroom",
+      "Food Included",
+      "Laundry",
+      "WiFi"
+    ],
+    "lat": 12.950853,
+    "lng": 77.622573,
+    "image": "https://images.unsplash.com/photo-1500000000091?auto=format&fit=crop&w=1200&q=80",
+    "address": "70, Koramangala, Bengaluru",
+    "metroDistanceKm": 0.9,
+    "phone": "+91 9147967672",
+    "whatsapp": "919672126256",
+    "popular": false
+  },
+  {
+    "id": "pg-92",
+    "name": "Rajajinagar Comfort Stay 92",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 25553,
+    "rating": 4.7,
+    "amenities": [
+      "Laundry",
+      "WiFi",
+      "AC",
+      "Furnished",
+      "Attached Bathroom"
+    ],
+    "lat": 12.978877,
+    "lng": 77.54172,
+    "image": "https://images.unsplash.com/photo-1500000000092?auto=format&fit=crop&w=1200&q=80",
+    "address": "84, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 2.4,
+    "phone": "+91 9368428038",
+    "whatsapp": "919401980218",
+    "popular": false
+  },
+  {
+    "id": "pg-93",
+    "name": "Koramangala Comfort Stay 93",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 14072,
+    "rating": 3.9,
+    "amenities": [
+      "CCTV",
+      "WiFi",
+      "Laundry",
+      "Power Backup"
+    ],
+    "lat": 12.954875,
+    "lng": 77.616212,
+    "image": "https://images.unsplash.com/photo-1500000000093?auto=format&fit=crop&w=1200&q=80",
+    "address": "47, Koramangala, Bengaluru",
+    "metroDistanceKm": 3.8,
+    "phone": "+91 9427429389",
+    "whatsapp": "919293357152",
+    "popular": false
+  },
+  {
+    "id": "pg-94",
+    "name": "Marathahalli Comfort Stay 94",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Girls",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 18806,
+    "rating": 4.3,
+    "amenities": [
+      "Attached Bathroom",
+      "Furnished",
+      "AC",
+      "Parking",
+      "CCTV",
+      "Food Included",
+      "Power Backup",
+      "WiFi",
+      "Laundry"
+    ],
+    "lat": 12.958501,
+    "lng": 77.705163,
+    "image": "https://images.unsplash.com/photo-1500000000094?auto=format&fit=crop&w=1200&q=80",
+    "address": "195, Marathahalli, Bengaluru",
+    "metroDistanceKm": 3.9,
+    "phone": "+91 9152276100",
+    "whatsapp": "919903208544",
+    "popular": true
+  },
+  {
+    "id": "pg-95",
+    "name": "Hebbal Comfort Stay 95",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Boys",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 16753,
+    "rating": 3.9,
+    "amenities": [
+      "AC",
+      "Food Included",
+      "Parking",
+      "Attached Bathroom",
+      "Furnished"
+    ],
+    "lat": 13.04326,
+    "lng": 77.583959,
+    "image": "https://images.unsplash.com/photo-1500000000095?auto=format&fit=crop&w=1200&q=80",
+    "address": "42, Hebbal, Bengaluru",
+    "metroDistanceKm": 1.4,
+    "phone": "+91 9357308793",
+    "whatsapp": "919350012412",
+    "popular": false
+  },
+  {
+    "id": "pg-96",
+    "name": "Rajajinagar Comfort Stay 96",
+    "area": "Rajajinagar",
+    "locality": "Rajajinagar",
+    "type": "Boys",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 23966,
+    "rating": 3.6,
+    "amenities": [
+      "Food Included",
+      "Attached Bathroom",
+      "Laundry",
+      "AC",
+      "Parking",
+      "Furnished",
+      "WiFi",
+      "CCTV"
+    ],
+    "lat": 12.985146,
+    "lng": 77.549515,
+    "image": "https://images.unsplash.com/photo-1500000000096?auto=format&fit=crop&w=1200&q=80",
+    "address": "153, Rajajinagar, Bengaluru",
+    "metroDistanceKm": 1.3,
+    "phone": "+91 9941692851",
+    "whatsapp": "919769819211",
+    "popular": false
+  },
+  {
+    "id": "pg-97",
+    "name": "Marathahalli Comfort Stay 97",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Double"
+    ],
+    "rent": 22415,
+    "rating": 4.5,
+    "amenities": [
+      "Power Backup",
+      "AC",
+      "Laundry",
+      "Furnished",
+      "Parking"
+    ],
+    "lat": 12.972604,
+    "lng": 77.681524,
+    "image": "https://images.unsplash.com/photo-1500000000097?auto=format&fit=crop&w=1200&q=80",
+    "address": "135, Marathahalli, Bengaluru",
+    "metroDistanceKm": 2.8,
+    "phone": "+91 9708296683",
+    "whatsapp": "919834050571",
+    "popular": true
+  },
+  {
+    "id": "pg-98",
+    "name": "Hebbal Comfort Stay 98",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Co-living",
+    "occupancy": [
+      "Double",
+      "Single",
+      "Triple"
+    ],
+    "rent": 20268,
+    "rating": 4.6,
+    "amenities": [
+      "AC",
+      "Food Included",
+      "Power Backup",
+      "Furnished",
+      "Laundry",
+      "Parking"
+    ],
+    "lat": 13.052528,
+    "lng": 77.584663,
+    "image": "https://images.unsplash.com/photo-1500000000098?auto=format&fit=crop&w=1200&q=80",
+    "address": "135, Hebbal, Bengaluru",
+    "metroDistanceKm": 3.6,
+    "phone": "+91 9974449988",
+    "whatsapp": "919704148705",
+    "popular": true
+  },
+  {
+    "id": "pg-99",
+    "name": "HSR Layout Comfort Stay 99",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Boys",
+    "occupancy": [
+      "Double",
+      "Triple",
+      "Single"
+    ],
+    "rent": 15371,
+    "rating": 4.7,
+    "amenities": [
+      "Furnished",
+      "Parking",
+      "WiFi",
+      "Power Backup",
+      "Food Included"
+    ],
+    "lat": 12.892126,
+    "lng": 77.645449,
+    "image": "https://images.unsplash.com/photo-1500000000099?auto=format&fit=crop&w=1200&q=80",
+    "address": "22, HSR Layout, Bengaluru",
+    "metroDistanceKm": 3.8,
+    "phone": "+91 9484233774",
+    "whatsapp": "919882074816",
+    "popular": true
+  },
+  {
+    "id": "pg-100",
+    "name": "HSR Layout Comfort Stay 100",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple"
+    ],
+    "rent": 24215,
+    "rating": 4.3,
+    "amenities": [
+      "AC",
+      "Attached Bathroom",
+      "Food Included",
+      "Parking"
+    ],
+    "lat": 12.897838,
+    "lng": 77.635804,
+    "image": "https://images.unsplash.com/photo-1500000000100?auto=format&fit=crop&w=1200&q=80",
+    "address": "123, HSR Layout, Bengaluru",
+    "metroDistanceKm": 2.5,
+    "phone": "+91 9281062939",
+    "whatsapp": "919810280725",
+    "popular": true
+  },
+  {
+    "id": "pg-101",
+    "name": "Whitefield Comfort Stay 101",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Boys",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 13544,
+    "rating": 3.9,
+    "amenities": [
+      "Food Included",
+      "WiFi",
+      "CCTV",
+      "Furnished",
+      "Attached Bathroom",
+      "Power Backup",
+      "AC",
+      "Parking"
+    ],
+    "lat": 12.962003,
+    "lng": 77.768691,
+    "image": "https://images.unsplash.com/photo-1500000000101?auto=format&fit=crop&w=1200&q=80",
+    "address": "27, Whitefield, Bengaluru",
+    "metroDistanceKm": 4.7,
+    "phone": "+91 9218454881",
+    "whatsapp": "919795113122",
+    "popular": false
+  },
+  {
+    "id": "pg-102",
+    "name": "Marathahalli Comfort Stay 102",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Boys",
+    "occupancy": [
+      "Double",
+      "Single"
+    ],
+    "rent": 15804,
+    "rating": 3.9,
+    "amenities": [
+      "CCTV",
+      "AC",
+      "WiFi",
+      "Power Backup"
+    ],
+    "lat": 12.960296,
+    "lng": 77.682666,
+    "image": "https://images.unsplash.com/photo-1500000000102?auto=format&fit=crop&w=1200&q=80",
+    "address": "83, Marathahalli, Bengaluru",
+    "metroDistanceKm": 1.3,
+    "phone": "+91 9109703047",
+    "whatsapp": "919227971423",
+    "popular": true
+  },
+  {
+    "id": "pg-103",
+    "name": "Marathahalli Comfort Stay 103",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Triple",
+      "Double"
+    ],
+    "rent": 18771,
+    "rating": 3.6,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Food Included",
+      "Power Backup",
+      "Laundry",
+      "CCTV",
+      "Attached Bathroom",
+      "WiFi",
+      "Furnished"
+    ],
+    "lat": 12.952313,
+    "lng": 77.708399,
+    "image": "https://images.unsplash.com/photo-1500000000103?auto=format&fit=crop&w=1200&q=80",
+    "address": "101, Marathahalli, Bengaluru",
+    "metroDistanceKm": 4.4,
+    "phone": "+91 9428623081",
+    "whatsapp": "919553517692",
+    "popular": false
+  },
+  {
+    "id": "pg-104",
+    "name": "HSR Layout Comfort Stay 104",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 13691,
+    "rating": 4.1,
+    "amenities": [
+      "Food Included",
+      "WiFi",
+      "Laundry",
+      "Furnished",
+      "Parking"
+    ],
+    "lat": 12.893669,
+    "lng": 77.665918,
+    "image": "https://images.unsplash.com/photo-1500000000104?auto=format&fit=crop&w=1200&q=80",
+    "address": "138, HSR Layout, Bengaluru",
+    "metroDistanceKm": 4.7,
+    "phone": "+91 9706865436",
+    "whatsapp": "919725707745",
+    "popular": true
+  },
+  {
+    "id": "pg-105",
+    "name": "Koramangala Comfort Stay 105",
+    "area": "Koramangala",
+    "locality": "Koramangala",
+    "type": "Boys",
+    "occupancy": [
+      "Single",
+      "Double",
+      "Triple"
+    ],
+    "rent": 19264,
+    "rating": 4.2,
+    "amenities": [
+      "Power Backup",
+      "Attached Bathroom",
+      "Laundry",
+      "Food Included",
+      "CCTV"
+    ],
+    "lat": 12.948889,
+    "lng": 77.624277,
+    "image": "https://images.unsplash.com/photo-1500000000105?auto=format&fit=crop&w=1200&q=80",
+    "address": "284, Koramangala, Bengaluru",
+    "metroDistanceKm": 1.3,
+    "phone": "+91 9188215477",
+    "whatsapp": "919186427901",
+    "popular": false
+  },
+  {
+    "id": "pg-106",
+    "name": "Whitefield Comfort Stay 106",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Co-living",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 19163,
+    "rating": 4.2,
+    "amenities": [
+      "AC",
+      "Food Included",
+      "Power Backup",
+      "Parking",
+      "Attached Bathroom",
+      "Furnished",
+      "Laundry",
+      "WiFi"
+    ],
+    "lat": 12.962961,
+    "lng": 77.735015,
+    "image": "https://images.unsplash.com/photo-1500000000106?auto=format&fit=crop&w=1200&q=80",
+    "address": "183, Whitefield, Bengaluru",
+    "metroDistanceKm": 3.1,
+    "phone": "+91 9972532602",
+    "whatsapp": "919251525391",
+    "popular": false
+  },
+  {
+    "id": "pg-107",
+    "name": "Jayanagar Comfort Stay 107",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 20008,
+    "rating": 4.6,
+    "amenities": [
+      "Food Included",
+      "Furnished",
+      "Parking",
+      "Attached Bathroom",
+      "WiFi",
+      "CCTV",
+      "Power Backup"
+    ],
+    "lat": 12.908892,
+    "lng": 77.610976,
+    "image": "https://images.unsplash.com/photo-1500000000107?auto=format&fit=crop&w=1200&q=80",
+    "address": "251, Jayanagar, Bengaluru",
+    "metroDistanceKm": 1.9,
+    "phone": "+91 9981361519",
+    "whatsapp": "919718798325",
+    "popular": false
+  },
+  {
+    "id": "pg-108",
+    "name": "Bellandur Comfort Stay 108",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Single"
+    ],
+    "rent": 27850,
+    "rating": 4.2,
+    "amenities": [
+      "CCTV",
+      "Attached Bathroom",
+      "Parking",
+      "WiFi"
+    ],
+    "lat": 12.932231,
+    "lng": 77.685636,
+    "image": "https://images.unsplash.com/photo-1500000000108?auto=format&fit=crop&w=1200&q=80",
+    "address": "245, Bellandur, Bengaluru",
+    "metroDistanceKm": 3.4,
+    "phone": "+91 9890752115",
+    "whatsapp": "919959424528",
+    "popular": false
+  },
+  {
+    "id": "pg-109",
+    "name": "Hebbal Comfort Stay 109",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Boys",
+    "occupancy": [
+      "Double",
+      "Triple"
+    ],
+    "rent": 8735,
+    "rating": 3.7,
+    "amenities": [
+      "Attached Bathroom",
+      "WiFi",
+      "CCTV",
+      "Laundry"
+    ],
+    "lat": 13.021622,
+    "lng": 77.581536,
+    "image": "https://images.unsplash.com/photo-1500000000109?auto=format&fit=crop&w=1200&q=80",
+    "address": "29, Hebbal, Bengaluru",
+    "metroDistanceKm": 3.4,
+    "phone": "+91 9756985246",
+    "whatsapp": "919850884714",
+    "popular": true
+  },
+  {
+    "id": "pg-110",
+    "name": "Jayanagar Comfort Stay 110",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 18047,
+    "rating": 4.6,
+    "amenities": [
+      "Attached Bathroom",
+      "CCTV",
+      "Laundry",
+      "WiFi",
+      "AC",
+      "Food Included"
+    ],
+    "lat": 12.928024,
+    "lng": 77.604901,
+    "image": "https://images.unsplash.com/photo-1500000000110?auto=format&fit=crop&w=1200&q=80",
+    "address": "197, Jayanagar, Bengaluru",
+    "metroDistanceKm": 3.9,
+    "phone": "+91 9879873678",
+    "whatsapp": "919333488240",
+    "popular": false
+  },
+  {
+    "id": "pg-111",
+    "name": "Whitefield Comfort Stay 111",
+    "area": "Whitefield",
+    "locality": "Whitefield",
+    "type": "Boys",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 9506,
+    "rating": 4.4,
+    "amenities": [
+      "Power Backup",
+      "Laundry",
+      "Furnished",
+      "WiFi"
+    ],
+    "lat": 12.955624,
+    "lng": 77.746097,
+    "image": "https://images.unsplash.com/photo-1500000000111?auto=format&fit=crop&w=1200&q=80",
+    "address": "228, Whitefield, Bengaluru",
+    "metroDistanceKm": 3.3,
+    "phone": "+91 9783733676",
+    "whatsapp": "919408864096",
+    "popular": true
+  },
+  {
+    "id": "pg-112",
+    "name": "Electronic City Comfort Stay 112",
+    "area": "Electronic City",
+    "locality": "Electronic City",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Single",
+      "Double"
+    ],
+    "rent": 14020,
+    "rating": 4.5,
+    "amenities": [
+      "Attached Bathroom",
+      "CCTV",
+      "Food Included",
+      "AC",
+      "Laundry",
+      "Power Backup",
+      "Furnished",
+      "Parking"
+    ],
+    "lat": 12.824417,
+    "lng": 77.670172,
+    "image": "https://images.unsplash.com/photo-1500000000112?auto=format&fit=crop&w=1200&q=80",
+    "address": "1, Electronic City, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9714106502",
+    "whatsapp": "919876413920",
+    "popular": false
+  },
+  {
+    "id": "pg-113",
+    "name": "Electronic City Comfort Stay 113",
+    "area": "Electronic City",
+    "locality": "Electronic City",
+    "type": "Co-living",
+    "occupancy": [
+      "Single",
+      "Double"
+    ],
+    "rent": 17519,
+    "rating": 4.5,
+    "amenities": [
+      "Furnished",
+      "Laundry",
+      "Food Included",
+      "Attached Bathroom",
+      "WiFi"
+    ],
+    "lat": 12.823328,
+    "lng": 77.657559,
+    "image": "https://images.unsplash.com/photo-1500000000113?auto=format&fit=crop&w=1200&q=80",
+    "address": "48, Electronic City, Bengaluru",
+    "metroDistanceKm": 2.8,
+    "phone": "+91 9982580263",
+    "whatsapp": "919888274624",
+    "popular": false
+  },
+  {
+    "id": "pg-114",
+    "name": "HSR Layout Comfort Stay 114",
+    "area": "HSR Layout",
+    "locality": "HSR Layout",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 21989,
+    "rating": 3.7,
+    "amenities": [
+      "CCTV",
+      "Parking",
+      "Power Backup",
+      "Laundry"
+    ],
+    "lat": 12.907098,
+    "lng": 77.635181,
+    "image": "https://images.unsplash.com/photo-1500000000114?auto=format&fit=crop&w=1200&q=80",
+    "address": "251, HSR Layout, Bengaluru",
+    "metroDistanceKm": 1.8,
+    "phone": "+91 9691978067",
+    "whatsapp": "919465109967",
+    "popular": false
+  },
+  {
+    "id": "pg-115",
+    "name": "BTM Layout Comfort Stay 115",
+    "area": "BTM Layout",
+    "locality": "BTM Layout",
+    "type": "Boys",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 23964,
+    "rating": 4.4,
+    "amenities": [
+      "WiFi",
+      "Power Backup",
+      "Parking",
+      "Attached Bathroom",
+      "Furnished"
+    ],
+    "lat": 12.900709,
+    "lng": 77.602802,
+    "image": "https://images.unsplash.com/photo-1500000000115?auto=format&fit=crop&w=1200&q=80",
+    "address": "70, BTM Layout, Bengaluru",
+    "metroDistanceKm": 0.7,
+    "phone": "+91 9930108128",
+    "whatsapp": "919334039233",
+    "popular": true
+  },
+  {
+    "id": "pg-116",
+    "name": "Jayanagar Comfort Stay 116",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Boys",
+    "occupancy": [
+      "Double"
+    ],
+    "rent": 10674,
+    "rating": 3.8,
+    "amenities": [
+      "Parking",
+      "AC",
+      "Attached Bathroom",
+      "Power Backup"
+    ],
+    "lat": 12.942696,
+    "lng": 77.579672,
+    "image": "https://images.unsplash.com/photo-1500000000116?auto=format&fit=crop&w=1200&q=80",
+    "address": "260, Jayanagar, Bengaluru",
+    "metroDistanceKm": 0.4,
+    "phone": "+91 9573924845",
+    "whatsapp": "919409903808",
+    "popular": false
+  },
+  {
+    "id": "pg-117",
+    "name": "Jayanagar Comfort Stay 117",
+    "area": "Jayanagar",
+    "locality": "Jayanagar",
+    "type": "Co-living",
+    "occupancy": [
+      "Single"
+    ],
+    "rent": 10584,
+    "rating": 4.6,
+    "amenities": [
+      "Furnished",
+      "CCTV",
+      "Food Included",
+      "WiFi",
+      "Laundry",
+      "Parking"
+    ],
+    "lat": 12.939369,
+    "lng": 77.601449,
+    "image": "https://images.unsplash.com/photo-1500000000117?auto=format&fit=crop&w=1200&q=80",
+    "address": "93, Jayanagar, Bengaluru",
+    "metroDistanceKm": 2.8,
+    "phone": "+91 9880221997",
+    "whatsapp": "919905464028",
+    "popular": false
+  },
+  {
+    "id": "pg-118",
+    "name": "Hebbal Comfort Stay 118",
+    "area": "Hebbal",
+    "locality": "Hebbal",
+    "type": "Boys",
+    "occupancy": [
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "rent": 15536,
+    "rating": 4.1,
+    "amenities": [
+      "WiFi",
+      "Furnished",
+      "Power Backup",
+      "Attached Bathroom",
+      "Parking",
+      "AC"
+    ],
+    "lat": 13.023897,
+    "lng": 77.593701,
+    "image": "https://images.unsplash.com/photo-1500000000118?auto=format&fit=crop&w=1200&q=80",
+    "address": "209, Hebbal, Bengaluru",
+    "metroDistanceKm": 1.8,
+    "phone": "+91 9544683954",
+    "whatsapp": "919603738008",
+    "popular": false
+  },
+  {
+    "id": "pg-119",
+    "name": "Marathahalli Comfort Stay 119",
+    "area": "Marathahalli",
+    "locality": "Marathahalli",
+    "type": "Girls",
+    "occupancy": [
+      "Triple",
+      "Double",
+      "Single"
+    ],
+    "rent": 12335,
+    "rating": 4.7,
+    "amenities": [
+      "Laundry",
+      "WiFi",
+      "Parking",
+      "CCTV",
+      "Power Backup",
+      "AC",
+      "Food Included",
+      "Attached Bathroom",
+      "Furnished"
+    ],
+    "lat": 12.948695,
+    "lng": 77.704624,
+    "image": "https://images.unsplash.com/photo-1500000000119?auto=format&fit=crop&w=1200&q=80",
+    "address": "64, Marathahalli, Bengaluru",
+    "metroDistanceKm": 4.3,
+    "phone": "+91 9727916509",
+    "whatsapp": "919170377639",
+    "popular": true
+  },
+  {
+    "id": "pg-120",
+    "name": "Bellandur Comfort Stay 120",
+    "area": "Bellandur",
+    "locality": "Bellandur",
+    "type": "Girls",
+    "occupancy": [
+      "Single",
+      "Triple"
+    ],
+    "rent": 16587,
+    "rating": 4.8,
+    "amenities": [
+      "Laundry",
+      "WiFi",
+      "CCTV",
+      "AC",
+      "Attached Bathroom",
+      "Food Included"
+    ],
+    "lat": 12.945234,
+    "lng": 77.665,
+    "image": "https://images.unsplash.com/photo-1500000000120?auto=format&fit=crop&w=1200&q=80",
+    "address": "202, Bellandur, Bengaluru",
+    "metroDistanceKm": 1.2,
+    "phone": "+91 9923769217",
+    "whatsapp": "919638615657",
+    "popular": false
+  }
+]
